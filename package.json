@@ -1,9 +1,3 @@
-  "signalk": {
-    "appIcon": "./assets/icons/HYC_Logo_1.png",
-    "displayName": "HYC-Race"
-  },
-
-
 {
   "name": "markdeegan/sigk-hyc-race",
   "version": "0.1",
